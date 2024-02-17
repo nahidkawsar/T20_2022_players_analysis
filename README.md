@@ -27,4 +27,3 @@ Below is Final Dashboard, created button to navigate through different pages, th
 ## Player Analysis  ![thumbnil](https://github.com/nahidkawsar/T20_2022_players_analysis/assets/149723828/85a05085-3209-43cc-b215-bcab18c5968b)
 
 ## Final Selection For Best 11 players ![1](https://github.com/nahidkawsar/T20_2022_players_analysis/assets/149723828/e51aa554-047e-4664-b053-6ef98ed9da17)
-
