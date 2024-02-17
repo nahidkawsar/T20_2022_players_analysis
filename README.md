@@ -24,6 +24,6 @@ so used profile file provided by codebasics to correct mine.
 Dashboarding of this project was beautiful and functional which taught me alot, I used buttons, tooltip, learned how to navigate through pages using buttons, it is like my intro to so many things that powerBI can do still there is lot to know and lot to learn which i will learn by doing such projects slowly.
 
 Below is Final Dashboard, created button to navigate through different pages, this page is for power hitters showing some metrices of power hitters
-## Player Analysis  ![thumbnil](https://github.com/nahidkawsar/T20_2022_players_analysis/assets/149723828/85a05085-3209-43cc-b215-bcab18c5968b)
+## Player Analysis  ![thumbnil](https://github.com/nahidkawsar/T20_2022_players_analysis/assets/149723828/94d5d608-e152-4097-8d47-6376eb8eea4d)
 
 ## Final Selection For Best 11 players ![1](https://github.com/nahidkawsar/T20_2022_players_analysis/assets/149723828/e51aa554-047e-4664-b053-6ef98ed9da17)
